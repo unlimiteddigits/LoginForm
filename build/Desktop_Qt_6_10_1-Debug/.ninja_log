@@ -1,0 +1,15 @@
+# ninja log v5
+2	819	1768992773689884191	LoginForm_autogen/timestamp	f221927b405a67e5
+2	819	1768992773689884191	LoginForm_autogen/mocs_compilation.cpp	f221927b405a67e5
+819	6579	1768992779486112125	CMakeFiles/LoginForm.dir/LoginForm_autogen/mocs_compilation.cpp.o	a63cc11622d47d34
+820	6579	1768992779486112125	CMakeFiles/LoginForm.dir/main.cpp.o	334275c0f10a7e30
+820	6588	1768992779494112436	CMakeFiles/LoginForm.dir/mainwindow.cpp.o	c6eaa8310e9086d9
+6588	9369	1768992782270219814	LoginForm	67f55071bdc8d026
+2	420	1769055379252272784	LoginForm_autogen/timestamp	96d1aae47064d808
+2	420	1769055379252272784	LoginForm_autogen/mocs_compilation.cpp	96d1aae47064d808
+2	420	1769055379252272784	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Debug/LoginForm_autogen/timestamp	96d1aae47064d808
+2	420	1769055379252272784	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Debug/LoginForm_autogen/mocs_compilation.cpp	96d1aae47064d808
+420	3130	1769055381968352541	CMakeFiles/LoginForm.dir/LoginForm_autogen/mocs_compilation.cpp.o	e57c477669a10ff5
+420	3177	1769055382016353950	CMakeFiles/LoginForm.dir/main.cpp.o	910663a9ecf8c0d6
+420	3847	1769055382684373565	CMakeFiles/LoginForm.dir/mainwindow.cpp.o	3cc1eadd1c118e13
+3847	4748	1769055383584399994	LoginForm	67f55071bdc8d026
