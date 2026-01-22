@@ -1,5 +1,5 @@
-/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/mark/github/QT\ Creator/LoginForm/mainwindow.h \
-  /home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/moc_predefs.h \
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/mark/github/qtcreator/LoginForm/mainwindow.h \
+  /home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/moc_predefs.h \
   /home/mark/Qt/6.10.1/gcc_64/include/QtCore/q17memory.h \
   /home/mark/Qt/6.10.1/gcc_64/include/QtCore/q20functional.h \
   /home/mark/Qt/6.10.1/gcc_64/include/QtCore/q20iterator.h \

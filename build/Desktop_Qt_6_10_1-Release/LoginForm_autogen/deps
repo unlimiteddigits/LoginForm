@@ -478,15 +478,15 @@ LoginForm_autogen/timestamp: \
 	/home/mark/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake \
 	/home/mark/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux.cmake \
 	/home/mark/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/UnixPaths.cmake \
-	/home/mark/github/QT\ Creator/LoginForm/CMakeLists.txt \
-	/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/.qtc/package-manager/auto-setup.cmake \
-	/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/.qtc/package-manager/maintenance_tool_provider.cmake \
-	/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
-	/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/CMakeFiles/3.30.5/CMakeSystem.cmake \
-	/home/mark/github/QT\ Creator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/moc_predefs.h \
-	/home/mark/github/QT\ Creator/LoginForm/main.cpp \
-	/home/mark/github/QT\ Creator/LoginForm/mainwindow.cpp \
-	/home/mark/github/QT\ Creator/LoginForm/mainwindow.h \
+	/home/mark/github/qtcreator/LoginForm/CMakeLists.txt \
+	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/.qtc/package-manager/auto-setup.cmake \
+	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/.qtc/package-manager/maintenance_tool_provider.cmake \
+	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-Release/LoginForm_autogen/moc_predefs.h \
+	/home/mark/github/qtcreator/LoginForm/main.cpp \
+	/home/mark/github/qtcreator/LoginForm/mainwindow.cpp \
+	/home/mark/github/qtcreator/LoginForm/mainwindow.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -749,5 +749,5 @@ LoginForm_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-	/home/mark/github/QT\ Creator/LoginForm/mainwindow.ui \
+	/home/mark/github/qtcreator/LoginForm/mainwindow.ui \
 	/home/mark/Qt/Tools/CMake/bin/cmake

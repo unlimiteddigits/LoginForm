@@ -1,0 +1,9 @@
+# ninja log v5
+0	300	1769056311352703761	LoginForm_autogen/timestamp	d7b6ee4750e8a0d3
+0	300	1769056311352703761	LoginForm_autogen/mocs_compilation.cpp	d7b6ee4750e8a0d3
+0	300	1769056311352703761	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/LoginForm_autogen/timestamp	d7b6ee4750e8a0d3
+0	300	1769056311352703761	/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/LoginForm_autogen/mocs_compilation.cpp	d7b6ee4750e8a0d3
+303	2773	1769056313796777082	CMakeFiles/LoginForm.dir/main.cpp.o	febd5a18479ae9d1
+302	2782	1769056313812777561	CMakeFiles/LoginForm.dir/LoginForm_autogen/mocs_compilation.cpp.o	9024a61739832894
+303	3189	1769056314244790521	CMakeFiles/LoginForm.dir/mainwindow.cpp.o	d349f463fe7a0c29
+3189	3594	1769056314648802640	LoginForm	9e94cd13aefe61ef

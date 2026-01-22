@@ -1,0 +1,9 @@
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/LoginForm.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/edit_cache.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/rebuild_cache.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/list_install_components.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/install.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/install/local.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/install/strip.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/LoginForm_autogen_timestamp_deps.dir
+/home/mark/github/qtcreator/LoginForm/build/Desktop_Qt_6_10_1-ReleaseClone/CMakeFiles/LoginForm_autogen.dir
